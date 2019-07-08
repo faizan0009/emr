@@ -1,0 +1,5 @@
+export const DrawerOpen = 'DrawerOpen';
+export const SELECTEDCONDITION = 'SELECTEDCONDITION';
+export const SELECTEDPATIENT = 'SELECTEDPATIENT';
+export const SELECTEDVISIT = 'SELECTEDVISIT';
+export const DELETEDCONDITION = 'DELETEDCONDITION'
